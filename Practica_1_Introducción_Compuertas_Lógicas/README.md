@@ -12,6 +12,8 @@ Esta es la compuerta base que nos da el software de la cual se van a derivar el 
 ### Not: 
 Para implementar esta compuerta, empleamos la compuerta NAND, en la cual ambas entradas siempre poseen el mismo valor, resultando en la negación del valor de entrada original.
 
+![](https://github.com/FelineSeven/ByteBusters/blob/cbcbdbf482d310b6b6cebcea81423edd5c99315c/Imagenes/Imagenes_Primera_Practica/Not.png)
+
 ### And: 
 Para crear esta compuerta, utilizamos la compuerta NOT previamente construida y, de manera sencilla, negamos las salidas del valor NAND.
 
@@ -21,8 +23,12 @@ Para construir esta compuerta, simplemente ejecutamos una operación AND con las
 ### Xor: 
 Para diseñar esta compuerta, primero invertimos cada una de las entradas. Luego, realizamos dos operaciones AND: una con la primera entrada invertida y la segunda entrada sin invertir, y la otra con la primera entrada sin invertir y la segunda entrada invertida. Finalmente, combinamos los resultados de ambas operaciones AND mediante una operación OR.
 
+![](https://github.com/FelineSeven/ByteBusters/blob/cbcbdbf482d310b6b6cebcea81423edd5c99315c/Imagenes/Imagenes_Primera_Practica/Xor.png)
+
 ### Mux: 
 Para crear esta compuerta, comenzamos con la tabla de verdad, a partir de la cual construimos un mapa de Karnaugh. Este mapa nos proporciona una expresión en términos de operaciones AND, OR y NOT, las cuales ya hemos creado previamente. Utilizando esta expresión, construimos el multiplexor necesario para la operación deseada. 
+
+![](https://github.com/FelineSeven/ByteBusters/blob/cbcbdbf482d310b6b6cebcea81423edd5c99315c/Imagenes/Imagenes_Primera_Practica/Mapa_Karnaugh.png)
 
 ### Dmux: 
 Para crear esta compuerta, iniciamos con la tabla de verdad y observamos que la salida "a" puede ser expresada como una operación AND entre la entrada y la negación del selector, mientras que la salida "b" se puede expresar como una operación AND entre la entrada y el selector. Dado que ya hemos creado estas compuertas individuales, podemos proceder a construir el demultiplexor. 
@@ -41,6 +47,8 @@ Para construir esta compuerta, simplemente aplicamos la operación Mux que previ
 
 ### Or8Way: 
 Para crear esta compuerta, aplicamos la operación OR que hemos construido previamente, realizando una operación OR entre la primera entrada y la segunda, y luego entre el resultado anterior y la siguiente entrada, repitiendo este proceso hasta combinar las ocho compuertas necesarias.
+
+![](https://github.com/FelineSeven/ByteBusters/blob/cbcbdbf482d310b6b6cebcea81423edd5c99315c/Imagenes/Imagenes_Primera_Practica/Or8Way.jpeg)
 
 ### Mux4Way16: 
 Para llevar a cabo esta operación, agrupamos las entradas en pares y aplicamos la operación MUX a cada par. Esto nos proporciona dos resultados diferentes, a los cuales también aplicamos la operación MUX.
