@@ -23,3 +23,9 @@ Para el desarrollo de este componete observamos su tabla de verdad:
 Como se puede observar en la tabla, la salida tiene la forma de un Xor y el carry de salida teine la forma de un and por lo que simplemente realizamos las dos operaciones con las entradas y asignamos las salidas correspondientes:
 
 ![](https://circuitglobe.com/wp-content/uploads/2015/12/HALF-ADDER-FULL-ADDER-FIG-1-compressor.jpg)
+
+### FullAdder
+
+Para la realizacion de este componente lo que se hace es realizar una media suma y el resultado obtenido de esa media suma se le realiza otra media suma, esas dos medias sumas nos generaran dos carrys de salida respectivamente, con los cuales realizaremos un or para definir la salida del carry final.
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Funigal.mx%2Fwp-content%2Fuploads%2F2022%2F03%2F1647471765_903_Circuito-de-medio-sumador-y-sumador-completo.jpg&f=1&nofb=1&ipt=8bbf2d9845bb1f9df729ce8fb5a953141a2154180b3d9388a6c776164099b85b&ipo=images)
