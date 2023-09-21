@@ -43,3 +43,21 @@ Para el desarrollo de esta funcion simplemente se realizara la funcion Add16 pas
 Para el desarrollo de la alu necesitamos tener en cuneta los selectores, lo primero que hacemos es analizar los primeros selectores y utilizar un multiplexor para definir si deja la entrada x y la entrada y o si las transforma en un vector de ceros, seguido a esto tendremos un nuevo valor de y y un nuevo valor de x los cuales vamos a negar o no segun el selector para ello, pasamos a un multiplexor el valor de x y x negado y en otro multiplexor el valor de y y y negado, con esto tendremos dos nuevas salidas de x y y, realizamos la funcion add16 y la funcion and16, y las pasamos a otro multiplexor de 16 el cual nos dira si guarda el valor de la add16 o de la and 16, esta salida se negara y se pasara a otro multiplexor el cual elegira si se deja dicha funcion o si se debe negar la funcion, por ultimo se tiene que analizar la salida ya que si es igual a 0 zr debe retornar el valor de 1 y si la salida es menor que 0 la salida ng debe retornar 1.
 
 ![](http://zipcpu.com/img/alu-simple.svg)
+
+
+## Desarrollo proyecto 03
+
+### Bit
+
+la plataforma nand2tetris nos facilita el codigo del DFF el cual almacenara el valor de el bit, dicho DFF mandara una señal cada sierto tiempo lo que mandara la salida a un multiplexor normal y eso definira la entrada al DFF, ese va a ser el valor que almacene el bit.
+
+### Registrer 
+
+El registrer es almacenar 16 bits, por lo que con las entradas llamamos la funcion realizada anteriormente 16 veces.
+
+### PC
+
+Para realizar el pc primero definimos que va a realizar dicho PC, en este caso va a realizar un incremento, y va a tener tres funciones, que son load, para cargar lo que ya tiene, set para volver el bit a cero y inc que va a ser la operacion de incrementar, para desarrollar el pc lo primero es con la entrada realizar el incremento, luego con tres multiplexores de dieciseis definimos cual de las tres operaciones se van a realizar, con la operacion realizada se guarda en un register.
+
+### RAM8 RAM64 RAM512 RAM4K RAM16k
+
