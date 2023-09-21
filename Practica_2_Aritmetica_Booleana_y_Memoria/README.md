@@ -55,9 +55,17 @@ la plataforma nand2tetris nos facilita el codigo del DFF el cual almacenara el v
 
 El registrer es almacenar 16 bits, por lo que con las entradas llamamos la funcion realizada anteriormente 16 veces.
 
+###RAM8
+
+Como su nombre lo dice, es una memoria que tendrá 8 "slots" para guardar los datos. Para determinar donde se guardan los datos se tiene una entrada llamada "address" que giardará los in de 'in[16]', además del Dmux Que determinará el lugar, El chip Mux se encarga de realizar la impresión del espacio donde está guardado el dato.  
+
+### RAM64 
+
+Así como la RAM8, se utilizarán 8 veces el chip RAM8 para lograr 64 entradas en la memoria, 
+
+
+RAM512 RAM4K RAM16k
 ### PC
 
 Para realizar el pc primero definimos que va a realizar dicho PC, en este caso va a realizar un incremento, y va a tener tres funciones, que son load, para cargar lo que ya tiene, set para volver el bit a cero y inc que va a ser la operacion de incrementar, para desarrollar el pc lo primero es con la entrada realizar el incremento, luego con tres multiplexores de dieciseis definimos cual de las tres operaciones se van a realizar, con la operacion realizada se guarda en un register.
-
-### RAM8 RAM64 RAM512 RAM4K RAM16k
 
