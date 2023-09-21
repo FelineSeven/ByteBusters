@@ -19,3 +19,7 @@ La lógica aritmética realiza calculos numericos  y aritméticos, como sumas, r
 Para el desarrollo de este componete observamos su tabla de verdad:
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.watelectronics.com%2Fwp-content%2Fuploads%2FHalf-Adder-Truth-Table-1.jpg&f=1&nofb=1&ipt=66a4e9a06dcc793498d146536f5c975ae9ff39b5e9b8872363f9b16de80febeb&ipo=images)
+
+Como se puede observar en la tabla, la salida tiene la forma de un Xor y el carry de salida teine la forma de un and por lo que simplemente realizamos las dos operaciones con las entradas y asignamos las salidas correspondientes:
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FthkTzdnkL5U%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=b64f98f1fca28cc34e735547e08e35bb70e50dd1acc9a1f62cb1f44d0ec35c4f&ipo=images)
