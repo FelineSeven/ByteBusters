@@ -22,4 +22,4 @@ Para el desarrollo de este componete observamos su tabla de verdad:
 
 Como se puede observar en la tabla, la salida tiene la forma de un Xor y el carry de salida teine la forma de un and por lo que simplemente realizamos las dos operaciones con las entradas y asignamos las salidas correspondientes:
 
-![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FthkTzdnkL5U%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=b64f98f1fca28cc34e735547e08e35bb70e50dd1acc9a1f62cb1f44d0ec35c4f&ipo=images)
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.ytimg.com%2Fvi%2FthkTzdnkL5U%2Fmaxresdefault.jpg&f=1&nofb=1&ipt=b64f98f1fca28cc34e735547e08e35bb70e50dd1acc9a1f62cb1f44d0ec35c4f&ipo=images {width=40px height=400px})
