@@ -39,4 +39,4 @@ La funcion de este componente es realizar 16 sumas para lo cual para la primera 
 Para el desarrollo de esta funcion simplemente se realizara la funcion Add16 pasandole la segunda entrada como un vector de unos, por lo que le realizara un incremento de uno a cada uno de los elementos.
 
 ### ALU
-![](https://www.nicepng.com/png/full/230-2305749_1-bit-alu-diagram.png)
+![](https://www.nicepng.com/png/full/230-2305749_1-bit-alu-diagram.png](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.jBLoJj-U9KtMysw8OuGAwwHaFJ%26pid%3DApi&f=1&ipt=b216ec9b75e5c5b3c69f77427a4b4c0a11c447485227b890a4edfda5cd4b7e74&ipo=images)https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Ftse3.mm.bing.net%2Fth%3Fid%3DOIP.jBLoJj-U9KtMysw8OuGAwwHaFJ%26pid%3DApi&f=1&ipt=b216ec9b75e5c5b3c69f77427a4b4c0a11c447485227b890a4edfda5cd4b7e74&ipo=images)
