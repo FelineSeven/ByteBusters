@@ -29,3 +29,14 @@ Como se puede observar en la tabla, la salida tiene la forma de un Xor y el carr
 Para la realizacion de este componente lo que se hace es realizar una media suma y el resultado obtenido de esa media suma se le realiza otra media suma, esas dos medias sumas nos generaran dos carrys de salida respectivamente, con los cuales realizaremos un or para definir la salida del carry final.
 
 ![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Funigal.mx%2Fwp-content%2Fuploads%2F2022%2F03%2F1647471765_903_Circuito-de-medio-sumador-y-sumador-completo.jpg&f=1&nofb=1&ipt=8bbf2d9845bb1f9df729ce8fb5a953141a2154180b3d9388a6c776164099b85b&ipo=images)
+
+### Add16
+
+La funcion de este componente es realizar 16 sumas para lo cual para la primera suma se realiza una media suma, dicha suma nos va a generar un carry, de ahi en adelante con ese carry se realizaran las siguientes 15 sumas completas.
+
+## Inc16
+
+Para el desarrollo de esta funcion simplemente se realizara la funcion Add16 pasandole la segunda entrada como un vector de unos, por lo que le realizara un incremento de uno a cada uno de los elementos.
+
+## ALU
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fi.stack.imgur.com%2FKykRa.png&f=1&nofb=1&ipt=31c38ac2ca73ad4ef725edb15cee628831363c86405667012181d3698225ddb3&ipo=images)
