@@ -10,3 +10,12 @@ El propósito central de este proyecto es la construcción manual de una Unidad 
 
 ### 2. Explique las principales diferencias entre la lógica aritmética y la lógica secuencial.
 La lógica aritmética realiza calculos numericos  y aritméticos, como sumas, restas, multiplicaciones, divisiones tambien toma decisiones logicas, mientras que la lógica secuencial almacena y procesa información en secuencia la cual depende de eventos anteriores. Los circuitos de lógica aritmética están diseñados para operadores básicos, utiliza principalmente compuertas lógicas, multiplexores y otros elementos para realizar cálculos y manipulación de datos, mientras que los de lógica secuencial se basan en la memoria, además de compuertas lógicas, involucra elementos como flip-flops, contadores, registros y máquinas de estado para controlar y mantener estados internos a lo largo del tiempo.La lógica aritmética combina varias entradas y produce una salida, en cambio la lógica secuencial puede tener múltiples salidas que dependen del estado del circuito.
+
+
+## Desarrollo proyecto 02
+
+### HallfAdder:
+
+Para el desarrollo de este componete observamos su tabla de verdad:
+
+![](https://external-content.duckduckgo.com/iu/?u=https%3A%2F%2Fwww.watelectronics.com%2Fwp-content%2Fuploads%2FHalf-Adder-Truth-Table-1.jpg&f=1&nofb=1&ipt=66a4e9a06dcc793498d146536f5c975ae9ff39b5e9b8872363f9b16de80febeb&ipo=images)
