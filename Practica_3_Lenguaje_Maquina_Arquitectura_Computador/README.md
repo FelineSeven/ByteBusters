@@ -35,6 +35,12 @@ Este enfoque garantiza que la pantalla cambie de blanco a negro cuando se presio
 
 ![](https://github.com/FelineSeven/ByteBusters/blob/8556ef28ad02850aad7d6aa042adc3ead35f5c5c/Imagenes/Imagenes_Tercera_Practica/Imagenes_Quinto_Proyecto/nand2tetris-memory.png)
 
+La memoria resulta de la combinación de tres chips: el chip RAM16k desarrollado en la práctica 03, el chip screen, encargado de mostrar la salida en la pantalla, y el chip keyboard, que detecta si alguna tecla está seleccionada. Para desarrollar esta actividad, primero utilizamos dos demultiplexores para determinar cuál de las entradas se almacenará en la memoria.
+
+Luego, procedemos a cargar la RAM y la pantalla mediante la invocación de las funciones proporcionadas anteriormente. Utilizando una serie de operadores lógicos OR, nos aseguramos de que el valor de keyboard sea cero. Finalmente, con la ayuda de dos multiplexores, obtenemos el valor de salida que se almacenará en la memoria.
+
+Este proceso nos permite gestionar y almacenar información en la memoria, asegurándonos de que la pantalla y otros dispositivos funcionen correctamente. Así, la memoria se convierte en un componente esencial para interactuar con el hardware y generar la salida deseada en la pantalla.
+
 ### Desarrollo CPU 
 
 ![](https://github.com/FelineSeven/ByteBusters/blob/ecc346057667fe21abd795dd8b59b9206bee1f31/Imagenes/Imagenes_Tercera_Practica/Imagenes_Quinto_Proyecto/nand2tetris-cpu.png)
