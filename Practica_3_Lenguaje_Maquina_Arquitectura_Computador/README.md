@@ -6,6 +6,9 @@ Nuestro objetivo principal es completar la construcción de la CPU Hack y la pla
 
 Este proyecto no solo nos proporcionará un profundo entendimiento de la programación de bajo nivel y la arquitectura de computadoras, sino que también nos preparará para explorar cómo funcionan las computadoras modernas a un nivel más profundo y apreciar la intersección entre hardware y software en el mundo de la informática.
 
+## ¿Por qué el lenguaje de máquina es importante para definir la arquitectura computacional?
+El lenguaje de máquina es crucial para establecer la arquitectura computacional, ya que es el idioma que el hardware de la computadora utiliza para procesar instrucciones y datos. Es importante porque permite a la CPU trabajar eficientemente y estructurar los componentes de hardware de manera adecuada. Además, el lenguaje de máquina es el estándar común utilizado para comunicarse con diferentes tipos y modelos de hardware de computadora.
+
 ## Proyecto 04 Lenguaje Maquina 
 ### Desarrollo MULT
 En esta actividad, se nos solicita realizar una multiplicación utilizando lenguaje ensamblador. Para lograrlo, accederemos a los valores de memoria ubicados en las posiciones 0, 1 y 2. Las direcciones de memoria 0 y 1 se utilizarán para almacenar los multiplicandos, mientras que la dirección de memoria 2 será reservada para guardar el resultado de la multiplicación.
