@@ -30,3 +30,9 @@ Luego, avanzamos a una etiqueta denominada 'draw', la cual se encargará de acce
 Este enfoque garantiza que la pantalla cambie de blanco a negro cuando se presiona una tecla y vuelva a su estado original cuando la tecla se suelta. El programa estará constantemente revisando la actividad del teclado para realizar estos cambios en tiempo real.
 
 ## Proyecto 05 Arquitectura de computadores
+
+### DEsarrollo Memory
+
+### Desarrollo CPU 
+
+### Desarrollo Computer 
