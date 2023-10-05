@@ -48,3 +48,7 @@ Este proceso nos permite gestionar y almacenar información en la memoria, asegu
 ### Desarrollo Computer 
 
 ![](https://github.com/FelineSeven/ByteBusters/blob/8556ef28ad02850aad7d6aa042adc3ead35f5c5c/Imagenes/Imagenes_Tercera_Practica/Imagenes_Quinto_Proyecto/nand2tetris-computer.jpg)
+
+El computador es el resultado de la combinación de dos componentes esenciales: la ROM32k de la memoria y la CPU. La ROM32k proporciona los datos que la CPU procesará. Luego, con la salida de la CPU, la memoria determina qué información guardar y la envía nuevamente a la CPU para que continúe realizando cálculos, generando así una salida. Este proceso se repite en un ciclo infinito.
+
+Para desarrollar este chip, simplemente llamamos a los chips previamente programados y a la ROM32K que nos proporciona el programa necesario. Esto permite que el computador funcione de manera coordinada y eficiente, procesando datos y generando salidas de manera continua.
