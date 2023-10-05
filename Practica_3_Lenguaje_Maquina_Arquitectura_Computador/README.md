@@ -45,6 +45,12 @@ Este proceso nos permite gestionar y almacenar información en la memoria, asegu
 
 ![](https://github.com/FelineSeven/ByteBusters/blob/ecc346057667fe21abd795dd8b59b9206bee1f31/Imagenes/Imagenes_Tercera_Practica/Imagenes_Quinto_Proyecto/nand2tetris-cpu.png)
 
+El desarrollo de la CPU sigue la guía proporcionada por nand2tetris, que establece la estructura de la unidad central de procesamiento. El proceso comienza definiendo el registro A mediante demultiplexores y almacenándolo en un registro interno. Luego, se utiliza un multiplexor para extraer la información del registro, la cual pasa por una serie de funciones lógicas para preparar la entrada de la ALU (Unidad Lógica y Aritmética).
+
+A continuación, la información se envía a la ALU, que procesa las entradas y genera un valor de salida. Luego se determina qué acción realizar con este valor: cargarlo en un registro o escribirlo en la memoria. Posteriormente, se preparan los datos para iniciar el ciclo nuevamente y poder retornar la salida obtenida por la CPU.
+
+Este proceso se repite de manera continua, permitiendo que la CPU procese instrucciones y realice operaciones lógicas y aritméticas de acuerdo con el programa que se esté ejecutando.
+
 ### Desarrollo Computer 
 
 ![](https://github.com/FelineSeven/ByteBusters/blob/8556ef28ad02850aad7d6aa042adc3ead35f5c5c/Imagenes/Imagenes_Tercera_Practica/Imagenes_Quinto_Proyecto/nand2tetris-computer.jpg)
