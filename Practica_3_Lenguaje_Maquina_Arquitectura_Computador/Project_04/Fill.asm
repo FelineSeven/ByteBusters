@@ -52,6 +52,6 @@
 	// disminuimos el valor de la posicion de el pixel actual 
 	@current
 	M=M-1
-	// continua dibujando el sihuiente pixel 
+	// continua dibujando el siguiente pixel 
 	@DRAW
 	0;JMP
