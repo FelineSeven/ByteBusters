@@ -33,6 +33,12 @@ Este enfoque garantiza que la pantalla cambie de blanco a negro cuando se presio
 
 ### DEsarrollo Memory
 
+![](https://github.com/FelineSeven/ByteBusters/blob/8556ef28ad02850aad7d6aa042adc3ead35f5c5c/Imagenes/Imagenes_Tercera_Practica/Imagenes_Quinto_Proyecto/nand2tetris-memory.png)
+
 ### Desarrollo CPU 
 
+![]([https://github.com/FelineSeven/ByteBusters/blob/8556ef28ad02850aad7d6aa042adc3ead35f5c5c/Imagenes/Imagenes_Tercera_Practica/Imagenes_Quinto_Proyecto/nand2tetris-computer.jpg](https://github.com/FelineSeven/ByteBusters/blob/8556ef28ad02850aad7d6aa042adc3ead35f5c5c/Imagenes/Imagenes_Tercera_Practica/Imagenes_Quinto_Proyecto/nand2tetris-cpu.png))
+
 ### Desarrollo Computer 
+
+![](https://github.com/FelineSeven/ByteBusters/blob/8556ef28ad02850aad7d6aa042adc3ead35f5c5c/Imagenes/Imagenes_Tercera_Practica/Imagenes_Quinto_Proyecto/nand2tetris-computer.jpg)
