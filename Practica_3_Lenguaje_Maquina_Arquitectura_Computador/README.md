@@ -1,5 +1,10 @@
 # Lenguaje Maquina y arquitectura de computadores 
 ## Introduccion 
+En este proyecto, nos sumergiremos en el emocionante mundo de la programación de bajo nivel en lenguaje de máquina y la plataforma informática Hack. Nuestro viaje nos llevará a través del proceso de ensamblaje, donde traduciremos el lenguaje simbólico al lenguaje de máquina, y nos permitirá apreciar de manera visual cómo el código binario nativo cobra vida en la plataforma de hardware de Hack.
+
+Nuestro objetivo principal es completar la construcción de la CPU Hack y la plataforma de hardware Hack, avanzando hasta el chip de computadora superior. En este proceso, no solo aprenderemos los fundamentos de la programación en lenguaje maquina, sino que también experimentaremos de primera mano cómo se construye una computadora desde sus componentes más básicos. Además, pondremos en práctica nuestros conocimientos al escribir y probar dos programas de bajo nivel.
+
+Este proyecto no solo nos proporcionará un profundo entendimiento de la programación de bajo nivel y la arquitectura de computadoras, sino que también nos preparará para explorar cómo funcionan las computadoras modernas a un nivel más profundo y apreciar la intersección entre hardware y software en el mundo de la informática.
 
 ## Proyecto 04 Lenguaje Maquina 
 ### Desarrollo MULT
