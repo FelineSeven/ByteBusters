@@ -44,7 +44,7 @@ class Assembler(object):
         try:
             int(symbol)
         except ValueError:
-            if not self.symbol_table.contains(symbol): # Build table on first pass
+            if not self.symbol_table.contains(symbol): 
                 address = self.create_address(self.ram_address)
                 self.symbol_table.add_entry(symbol, address)
                 self.ram_address += 1
