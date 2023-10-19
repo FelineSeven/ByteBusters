@@ -22,4 +22,4 @@ El ensamblador también debe tener una condición que permita procesar solo arch
 Este proceso de ensamblado nos permitirá convertir el código en lenguaje ensamblador a código máquina comprensible por la arquitectura de la computadora.
 
 ## 1. Teniendo en cuenta las características del ensamblador, ¿Cuál es la principal limitante que observan? Justifique su respuesta
-El ensamblador
+Para el ensamblador desarrollado en clase, tenemos limitaciones en principio de el uso de recursos limitados y una optimización baja, debido a que este está limitado en el tamaño de bits que puede procesar y, además, depnediendo del archivo puede tener un proceso de traducción mas lento, cosa que empeora cuando el programa debe traducir simbolos. 
