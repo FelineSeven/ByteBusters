@@ -20,3 +20,6 @@ Con todas estas clases definidas, podemos construir nuestra clase principal, que
 El ensamblador también debe tener una condición que permita procesar solo archivos con extensión ".asm". El ejemplo que se encuentra en el repositorio de Git contiene el código "Add.asm", pero puede reemplazarse por cualquier otro archivo ".asm" para generar el correspondiente ".hack".
 
 Este proceso de ensamblado nos permitirá convertir el código en lenguaje ensamblador a código máquina comprensible por la arquitectura de la computadora.
+
+## 1. Teniendo en cuenta las características del ensamblador, ¿Cuál es la principal limitante que observan? Justifique su respuesta
+El ensamblador
