@@ -4,8 +4,9 @@ En este proyecto, se busca desarrollar un 'traductor' de lenguaje que busca trad
 Para el desarrollo de este proyecto, se dividió en dos etapas, un traductor sencillo que cumpla con las funciones que se requieren, para luego ampliarlo a un tradcutor de gran escala.
 
 Las dos etapas se dividieron de la siguiente forma:
-1. El 'traductor' mas sencillo debe conseguir hacer la traducción de los comandos aritmeticos de pila y luego los comandos de acceso a la memoria.
-2. En cuanto a la etapa dos, la idea es escalar el 'traductor' hacía la ejecución 
+1. El 'traductor' en su etapa inicial debe conseguir hacer la traducción de los comandos aritmeticos de pila y luego los comandos de acceso a la memoria, además de ofrecer los mismos resultaos que los archivos de comparación que facilita el sitio de Nand2Tetris. 
+2. En cuanto a la etapa dos, la idea es escalar el 'traductor' hacía la traducción de los comandos de llamada de funciones y bifurcaciones del lenguaje VM, e igualmente deben retornar los mismos resultados que los archivos de comparación brindados por la web de Nand2Tetris.
+
 
 ## Desarrollo Proyecto 7
 
