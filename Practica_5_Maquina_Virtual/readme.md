@@ -7,6 +7,7 @@ Las dos etapas se dividieron de la siguiente forma:
 1. El 'traductor' en su etapa inicial debe conseguir hacer la traducción de los comandos aritmeticos de pila y luego los comandos de acceso a la memoria, además de ofrecer los mismos resultaos que los archivos de comparación que facilita el sitio de Nand2Tetris. 
 2. En cuanto a la etapa dos, la idea es escalar el 'traductor' hacía la traducción de los comandos de llamada de funciones y bifurcaciones del lenguaje VM, e igualmente deben retornar los mismos resultados que los archivos de comparación brindados por la web de Nand2Tetris.
 
+En forma general, el 'tradcutor' debe recibir archivos .vm, ejecutar los comandos para el proceso de tradución y luego guardar los resultados en un archivo de salida .asm, este ultimo contendrá el código ensamblador resultante de los archivos .vm que, posteriormente, tendrán lugar a la comparación para verificar el correcto funcionamiento del programa.   
 
 ## Desarrollo Proyecto 7
 
