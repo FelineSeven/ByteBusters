@@ -46,3 +46,18 @@ Estas modificaciones y extensiones en los proyectos 7 y 8 permiten una comprensi
 
 ## Preguntas
 1. Teniendo en cuenta el marco de estas dos prácticas que son las máquinas virtuales. ¿Cuál cree que es el futuro de las máquinas virtuales?
+De la mano de discusión con los compañetos de equipo y la consulta en línea, encontramos las siguientes situaciones en las cuales una máquina virtual puede ser utilizada a futuro:
+
+En prima instacia, las máquinas virtuales son entornos de software que emulan computadoras completas dentro de una computadora física. A pesar de su utilidad, enfrentan desafíos y limitaciones que son importantes de considerar en el mundo de la informática. Estos desafíos incluyen cuestiones de rendimiento, seguridad, compatibilidad y gestión de recursos.
+
+Mirando hacia el futuro, hay varias tendencias que podrían influir en la evolución de las máquinas virtuales:
+
+Integración con la inteligencia artificial y la computación cuántica: Estas tecnologías avanzadas podrían mejorar significativamente las capacidades de las máquinas virtuales al permitirles aprender, razonar, optimizar y resolver problemas complejos de manera más eficiente.
+
+Mejoras en el hipervisor o monitor de máquina virtual: El software que crea y gestiona las máquinas virtuales, conocido como hipervisor, está en constante evolución. En el futuro, podríamos ver hipervisores más sofisticados que ofrecen mayor funcionalidad, eficiencia y seguridad.
+
+Expansión de la nube y el edge computing: La creciente adopción de la nube y el edge computing proporciona a las máquinas virtuales una mayor flexibilidad y accesibilidad. Esto permite a los usuarios acceder a las máquinas virtuales desde cualquier ubicación y dispositivo, aprovechando recursos distribuidos en la red.
+
+Para mas claridad, el edge computing se define como una tendencia que involucra el procesamiento de datos y la ejecución de aplicaciones más cerca de la ubicación donde se generan o se necesitan, en lugar de enviar todos los datos a centros de datos centralizados o nubes remotas para su procesamiento.
+
+Para resumir, las máquinas virtuales son una tecnología fundamental en informática, y su futuro se ve prometedor con la integración de tecnologías avanzadas y el continuo desarrollo de software para una administración más eficaz y segura.
