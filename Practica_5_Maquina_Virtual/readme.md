@@ -1,3 +1,4 @@
+### Máquina Virtual 
 ## Introducción
 En este proyecto, se busca desarrollar un 'traductor' de lenguaje que busca traducir los comandos de programas escritos en lenguaje VM, a una secuancia de comandos en lenguaje hack, con el fin de que desarrollen la misma tarea.  
 
@@ -42,3 +43,6 @@ La función "write_init" se encarga de escribir el código bootstrap de VM. Este
 En la función "main," se realizan ajustes para manejar nombres de archivos y se encarga de insertar el código bootstrap. Luego, se realiza el proceso de recorrer los archivos de entrada y convertirlos en un único archivo de ensamblaje. El escaneo del archivo de entrada en busca de comandos VM y la escritura de las traducciones en el archivo de salida se ejecuta de manera similar al proyecto anterior, utilizando las clases "Parser" y "CodeWriter."
 
 Estas modificaciones y extensiones en los proyectos 7 y 8 permiten una comprensión más profunda y clara del proceso y los componentes involucrados. Los comandos VM adicionales agregados en el Proyecto 8 enriquecen aún más la funcionalidad de la máquina virtual. 
+
+## Preguntas
+1. Teniendo en cuenta el marco de estas dos prácticas que son las máquinas virtuales. ¿Cuál cree que es el futuro de las máquinas virtuales?
