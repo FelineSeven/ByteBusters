@@ -1,4 +1,4 @@
-### Máquina Virtual 
+# Máquina Virtual 
 ## Introducción
 En este proyecto, se busca desarrollar un 'traductor' de lenguaje que busca traducir los comandos de programas escritos en lenguaje VM, a una secuancia de comandos en lenguaje hack, con el fin de que desarrollen la misma tarea.  
 
