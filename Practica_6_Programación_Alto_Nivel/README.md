@@ -1,3 +1,4 @@
 # Programación de Alto Nivel: Juego en Jack
 ## Introducción:
-La presente práctica consiste en el uso de un lenguaje de progrmación simple conocido como 'Jack', con el fin de crear un mini juego, como tetris, snake, pong, y demás.  
+La presente práctica consiste en el uso de un lenguaje de programación simple conocido como 'Jack', utilizado para conseguir implemntar un juego simple, como snake, pongo o onclusive tetris. 
+El proyecto busca crear o 'adoptar' una idea de algun juego o aplicación interactiva de preferencia.
