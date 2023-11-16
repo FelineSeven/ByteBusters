@@ -12,4 +12,4 @@ El proyecto busca crear o 'adoptar' una idea de algun juego o aplicación intera
 
 La idea de un nuevo lenguaje de programación debe basarse en diversos aspectos que atiendan a las necesidades de su creación y sus motivos, los que clasificariamos así:
 
-- Objetivo del lenguaje: Los lenguajes de programación suelen tener un enfoque especifico en algo, como es el caso de MatLab para el computo númerico o 
+- Objetivo del lenguaje: Los lenguajes de programación suelen tener un enfoque especifico, como es el caso de MatLab para el computo númerico o 
