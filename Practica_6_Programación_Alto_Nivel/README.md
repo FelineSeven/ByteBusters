@@ -37,4 +37,12 @@ Estas clases forman la primera fase del proceso para transformar un lenguaje de 
 
 La idea de un nuevo lenguaje de programación debe basarse en diversos aspectos que atiendan a las necesidades de su creación y sus motivos, los que clasificariamos así:
 
-- Objetivo del lenguaje: Los lenguajes de programación suelen tener un enfoque especifico, como es el caso de MatLab para el computo númerico o
+- Objetivo del lenguaje: Los lenguajes de programación suelen tener un enfoque específico, como es el caso de MatLab para el computo númerico, los lenguajes deben generar código que sea eficiente y tener alto rendimiento en su arquitectura objetivo.
+  
+- Sencillez: En el aspecto de que un lenguaje debe ser sencillo de entender y de estudiar, ofrecer una facil sintaxis le ofrecerá al lenguaje mas atractivo, debido a que la gente suele tener mas resistencia a aprender lenguajes de sintaxis complicada.
+
+- Recursos y documentación: Debe ofrecer estrcuturas de datos, algoritmos y librerías que aocmpañen un desarrollo más profundo, además de tener una documentación muy completa que ayudaría a los usuarios a llevar una mejor comprensión del lenguaje. 
+  
+- Mantenimiento y Colaboración: Al crear el nuevo lenguaje, el código debe ser claro, evitar enrededos de algoritmos y tener buenas declaraciones de variables, hacer sencilla la identificación de los elementos, mejorará inclusive el proceso de colaboración durante el desarrollo del lenguaje, y su respectivo mantenimiento a futuro.
+
+- 
