@@ -43,6 +43,4 @@ La idea de un nuevo lenguaje de programación debe basarse en diversos aspectos 
 
 - Recursos y documentación: Debe ofrecer estrcuturas de datos, algoritmos y librerías que aocmpañen un desarrollo más profundo, además de tener una documentación muy completa que ayudaría a los usuarios a llevar una mejor comprensión del lenguaje. 
   
-- Mantenimiento y Colaboración: Al crear el nuevo lenguaje, el código debe ser claro, evitar enrededos de algoritmos y tener buenas declaraciones de variables, hacer sencilla la identificación de los elementos, mejorará inclusive el proceso de colaboración durante el desarrollo del lenguaje, y su respectivo mantenimiento a futuro.
-
-- 
+- Mantenimiento, Actualización y Colaboración: Al crear el nuevo lenguaje, el código debe ser claro, evitar enrededos de algoritmos y tener buenas declaraciones de variables, hacer sencilla la identificación de los elementos, mejorará inclusive el proceso de colaboración durante el desarrollo del lenguaje, y su respectivo mantenimiento a futuro. La actualización constante del lenguaje es necesaria para no dejarlo obsoleto ante los nuevos surgimientos tecnológicos, mejores algoritmos y estructuras mantendrían el nuevo lenguaje a flote. 
