@@ -7,17 +7,9 @@ La primera parte de esta práctica, aborda el proyecto 9, donde se propone la im
 En lo que respecta a la segunda parte, correspondiente al proyecto 10, tenemos la tarea de construir un analizador de sintaxis. Esta fase del proyecto tiene como meta la generación de un archivo con formato XML, llevándonos a explorar aspectos más avanzados y fundamentales de la programación en 'Jack'. El propósito de esta iniciativa es profundizar en nuestras habilidades y conocimientos, aplicando los conceptos aprendidos de manera práctica y consolidando nuestro dominio del lenguaje de programación propuesto.
 
 
-## Preguntas: 
-1. Desarrolle más el concepto de lenguaje de alto nivel, teniendo en cuenta la diferencia entre lenguajes de programación propiamente dichos e interpretadores.
 
-## Bonus:
-¿Qué se debe considerar para proponer un nuevo y buen lenguaje de programación, teniendo en cuenta la arquitectura de computador completa? Justifique su respuesta.
 
-La idea de un nuevo lenguaje de programación debe basarse en diversos aspectos que atiendan a las necesidades de su creación y sus motivos, los que clasificariamos así:
-
-- Objetivo del lenguaje: Los lenguajes de programación suelen tener un enfoque especifico, como es el caso de MatLab para el computo númerico o
-
-## Proyecto 09
+## Desarrollo Proyecto 09
 
 El objetivo central de este proyecto es comprender el funcionamiento del lenguaje Jack. Para lograr esto, se propone la creación de un juego en este lenguaje. En este caso, se implementará el juego del cuadrado, donde se generará un cuadrado móvil en la pantalla. Este cuadrado podrá ajustar su tamaño y desplazarse tanto horizontal como verticalmente. Además, se incluirá la capacidad de eliminar el cuadrado.
 
@@ -27,7 +19,7 @@ Luego, se procederá a la creación del archivo "juegoCuadrado.jack." Este archi
 
 Finalmente, se creará el archivo "Main.jack," encargado de instanciar el SquareGame y ejecutarlo.
 
-## Proyecto 10
+## Desarrollo Proyecto 10
 
 El propósito fundamental de este proyecto es generar un archivo .VM a partir de un archivo .Jack para facilitar la lectura del código en la máquina virtual. Con este objetivo, se desarrollarán tres clases en Python, cada una cumpliendo un papel específico en la tarea.
 
@@ -38,3 +30,13 @@ La siguiente clase a crear es "JackTokenizer," cuya responsabilidad es ignorar l
 Por último, se encuentra la clase principal denominada "JackAnalyzer," que se encargará de reunir y coordinar las dos clases anteriores.
 
 Estas clases forman la primera fase del proceso para transformar un lenguaje de alto nivel a su versión en máquina virtual, estableciendo las bases para un análisis más profundo y la posterior generación del archivo .VM.
+
+## Preguntas: 
+1. Desarrolle más el concepto de lenguaje de alto nivel, teniendo en cuenta la diferencia entre lenguajes de programación propiamente dichos e interpretadores.
+
+## Bonus:
+¿Qué se debe considerar para proponer un nuevo y buen lenguaje de programación, teniendo en cuenta la arquitectura de computador completa? Justifique su respuesta.
+
+La idea de un nuevo lenguaje de programación debe basarse en diversos aspectos que atiendan a las necesidades de su creación y sus motivos, los que clasificariamos así:
+
+- Objetivo del lenguaje: Los lenguajes de programación suelen tener un enfoque especifico, como es el caso de MatLab para el computo númerico o
