@@ -4,9 +4,7 @@ La presente práctica tiene como enfoque principal el desarrollo de dos proyecto
 
 La primera parte de esta práctica, aborda el proyecto 9, donde se propone la implementación de un juego o aplicación de pequeña escala. Este proyecto tiene como objetivo principal familiarizarnos con el lenguaje 'Jack' y facilitar la comprensión de su utilización.
 
-En lo que respecta a la segunda parte, correspondiente al proyecto 10, tenemos la tarea de construir un analizador de sintaxis. Esta fase del proyecto tiene como meta la generación de un archivo con formato XML, llevándonos a explorar aspectos más avanzados y fundamentales de la programación en 'Jack'. El propósito de esta iniciativa es profundizar en nuestras habilidades y conocimientos, aplicando los conceptos aprendidos de manera práctica y consolidando nuestro dominio del lenguaje de programación propuesto.
-
-
+En lo que respecta a la segunda parte, correspondiente al proyecto 10, tenemos la tarea de construir un analizador de sintaxis, que debe cumplir con la función de retornar un archivo '.XML' desde un archivo '.Jack', estos archivos de salida deben ser identicos a los que se proporcionan en el sitio oficial de Nad2Tetris. El objetivo de este desarrollo es profundizar en nuestras habilidades y conocimientos, aplicando los conceptos aprendidos de manera práctica y consolidando nuestro dominio del lenguaje de programación propuesto.
 
 
 ## Desarrollo Proyecto 09
