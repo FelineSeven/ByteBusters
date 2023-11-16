@@ -32,6 +32,8 @@ Estas clases forman la primera fase del proceso para transformar un lenguaje de 
 ## Preguntas: 
 1. Desarrolle más el concepto de lenguaje de alto nivel, teniendo en cuenta la diferencia entre lenguajes de programación propiamente dichos e interpretadores.
 
+Un lenguaje de alto nivel es un tipo de lenguaje de programación que permite expresar algoritmos de una forma más cercana al lenguaje humano y más independiente del hardware de la maquina, facilitando así la lectura, depuración y mantenimiento del codigo a largo plazo. En base a esto también debemos hablar de las diferencias que tenemos entre un intérprete y un lenguaje de programación, siendo así que el primero es donde se traduce el código fuente a código a máquina de forma dinámica, esto quiere decir, línea por línea la ejecución del programa, mientras que un lenguaje de programación es el conjunto de reglas y símbolos que se usan para crear programas.
+
 ## Bonus:
 ¿Qué se debe considerar para proponer un nuevo y buen lenguaje de programación, teniendo en cuenta la arquitectura de computador completa? Justifique su respuesta.
 
