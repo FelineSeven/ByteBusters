@@ -1,8 +1,11 @@
 # Programación de Alto Nivel: Juego en Jack
 ## Introducción:
-La presente práctica consiste en el uso de un lenguaje de programación simple conocido como 'Jack', utilizado para conseguir implementar un juego simple, como snake, pongo o inclusive tetris. 
+La presente práctica tiene como enfoque principal el desarrollo de dos proyectos que giran en torno al empleo de un lenguaje de programación sencillo conocido como 'Jack'.
 
-El proyecto busca crear o 'adoptar' una idea de algun juego o aplicación interactiva de preferencia.
+La primera parte de esta práctica, aborda el proyecto 9, donde se propone la implementación de un juego o aplicación de pequeña escala. Este proyecto tiene como objetivo principal familiarizarnos con el lenguaje 'Jack' y facilitar la comprensión de su utilización.
+
+En lo que respecta a la segunda parte, correspondiente al proyecto 10, tenemos la tarea de construir un analizador de sintaxis. Esta fase del proyecto tiene como meta la generación de un archivo con formato XML, llevándonos a explorar aspectos más avanzados y fundamentales de la programación en 'Jack'. El propósito de esta iniciativa es profundizar en nuestras habilidades y conocimientos, aplicando los conceptos aprendidos de manera práctica y consolidando nuestro dominio del lenguaje de programación propuesto.
+
 
 ## Preguntas: 
 1. Desarrolle más el concepto de lenguaje de alto nivel, teniendo en cuenta la diferencia entre lenguajes de programación propiamente dichos e interpretadores.
