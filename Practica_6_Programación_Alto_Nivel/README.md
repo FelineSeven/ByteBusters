@@ -9,3 +9,7 @@ El proyecto busca crear o 'adoptar' una idea de algun juego o aplicación intera
 
 ## Bonus:
 ¿Qué se debe considerar para proponer un nuevo y buen lenguaje de programación, teniendo en cuenta la arquitectura de computador completa? Justifique su respuesta.
+
+La idea de un nuevo lenguaje de programación debe basarse en diversos aspectos que atiendan a las necesidades de su creación y sus motivos, los que clasiicariamos así:
+
+- Objetivo del lenguaje: Los lenguajes de programación suelen tener un enfoque especifico en algo, como es el caso de MatLab para el computo númerico o 
